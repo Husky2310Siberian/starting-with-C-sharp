@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/bin/Debug/net9.0/TernaryOperator
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/bin/Debug/net9.0/TernaryOperator.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/bin/Debug/net9.0/TernaryOperator.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/bin/Debug/net9.0/TernaryOperator.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/bin/Debug/net9.0/TernaryOperator.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/refint/TernaryOperator.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/TernaryOperator.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TernaryOperator/obj/Debug/net9.0/ref/TernaryOperator.dll

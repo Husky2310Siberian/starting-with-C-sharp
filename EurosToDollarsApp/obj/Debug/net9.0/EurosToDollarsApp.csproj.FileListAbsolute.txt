@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/bin/Debug/net9.0/EurosToDollarsApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/bin/Debug/net9.0/EurosToDollarsApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/bin/Debug/net9.0/EurosToDollarsApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/bin/Debug/net9.0/EurosToDollarsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/bin/Debug/net9.0/EurosToDollarsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/refint/EurosToDollarsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/EurosToDollarsApp/obj/Debug/net9.0/ref/EurosToDollarsApp.dll

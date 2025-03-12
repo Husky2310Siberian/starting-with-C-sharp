@@ -18,6 +18,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboIterativeApp", "FiboIte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboWithArrayApp", "FiboWithArrayApp\FiboWithArrayApp.csproj", "{A8CCC711-10A5-49B5-A008-49F5044A5E40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeCastApp", "TypeCastApp\TypeCastApp.csproj", "{16DFED9C-5C69-4F93-87DC-1DD5FC4B1B39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{02E1A971-539C-4A6B-BF00-21EF0B03CF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurosToDollarsApp", "EurosToDollarsApp\EurosToDollarsApp.csproj", "{D3EC3C43-2FCA-4975-9890-1EC9C830F0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondsToDateApp", "SecondsToDateApp\SecondsToDateApp.csproj", "{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +68,21 @@ Global
 		{A8CCC711-10A5-49B5-A008-49F5044A5E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8CCC711-10A5-49B5-A008-49F5044A5E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8CCC711-10A5-49B5-A008-49F5044A5E40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16DFED9C-5C69-4F93-87DC-1DD5FC4B1B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16DFED9C-5C69-4F93-87DC-1DD5FC4B1B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16DFED9C-5C69-4F93-87DC-1DD5FC4B1B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16DFED9C-5C69-4F93-87DC-1DD5FC4B1B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E1A971-539C-4A6B-BF00-21EF0B03CF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E1A971-539C-4A6B-BF00-21EF0B03CF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E1A971-539C-4A6B-BF00-21EF0B03CF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E1A971-539C-4A6B-BF00-21EF0B03CF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3EC3C43-2FCA-4975-9890-1EC9C830F0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EC3C43-2FCA-4975-9890-1EC9C830F0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EC3C43-2FCA-4975-9890-1EC9C830F0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EC3C43-2FCA-4975-9890-1EC9C830F0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

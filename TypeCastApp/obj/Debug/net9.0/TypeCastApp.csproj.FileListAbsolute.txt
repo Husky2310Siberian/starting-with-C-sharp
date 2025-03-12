@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/bin/Debug/net9.0/TypeCastApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/bin/Debug/net9.0/TypeCastApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/bin/Debug/net9.0/TypeCastApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/bin/Debug/net9.0/TypeCastApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/bin/Debug/net9.0/TypeCastApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/refint/TypeCastApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/TypeCastApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TypeCastApp/obj/Debug/net9.0/ref/TypeCastApp.dll

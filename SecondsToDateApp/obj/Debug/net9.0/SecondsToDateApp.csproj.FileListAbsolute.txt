@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/bin/Debug/net9.0/SecondsToDateApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/bin/Debug/net9.0/SecondsToDateApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/bin/Debug/net9.0/SecondsToDateApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/bin/Debug/net9.0/SecondsToDateApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/bin/Debug/net9.0/SecondsToDateApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/refint/SecondsToDateApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SecondsToDateApp/obj/Debug/net9.0/ref/SecondsToDateApp.dll
