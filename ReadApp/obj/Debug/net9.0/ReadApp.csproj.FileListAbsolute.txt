@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/bin/Debug/net9.0/ReadApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/bin/Debug/net9.0/ReadApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/bin/Debug/net9.0/ReadApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/bin/Debug/net9.0/ReadApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/bin/Debug/net9.0/ReadApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/refint/ReadApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ReadApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ReadApp/obj/Debug/net9.0/ref/ReadApp.dll

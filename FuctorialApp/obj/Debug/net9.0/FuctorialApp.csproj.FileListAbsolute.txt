@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/bin/Debug/net9.0/FuctorialApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/bin/Debug/net9.0/FuctorialApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/bin/Debug/net9.0/FuctorialApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/bin/Debug/net9.0/FuctorialApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/bin/Debug/net9.0/FuctorialApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/refint/FuctorialApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/FuctorialApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FuctorialApp/obj/Debug/net9.0/ref/FuctorialApp.dll

@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/bin/Debug/net9.0/FiboWithArrayApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/bin/Debug/net9.0/FiboWithArrayApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/bin/Debug/net9.0/FiboWithArrayApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/bin/Debug/net9.0/FiboWithArrayApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/bin/Debug/net9.0/FiboWithArrayApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/refint/FiboWithArrayApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboWithArrayApp/obj/Debug/net9.0/ref/FiboWithArrayApp.dll

@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/bin/Debug/net9.0/OutputApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/bin/Debug/net9.0/OutputApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/bin/Debug/net9.0/OutputApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/bin/Debug/net9.0/OutputApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/bin/Debug/net9.0/OutputApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/refint/OutputApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/OutputApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/OutputApp/obj/Debug/net9.0/ref/OutputApp.dll

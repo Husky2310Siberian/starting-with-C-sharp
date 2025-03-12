@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/bin/Debug/net9.0/FiboIterativeApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/bin/Debug/net9.0/FiboIterativeApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/bin/Debug/net9.0/FiboIterativeApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/bin/Debug/net9.0/FiboIterativeApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/bin/Debug/net9.0/FiboIterativeApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/refint/FiboIterativeApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FiboIterativeApp/obj/Debug/net9.0/ref/FiboIterativeApp.dll

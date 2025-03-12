@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/bin/Debug/net9.0/ArgsApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/bin/Debug/net9.0/ArgsApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/bin/Debug/net9.0/ArgsApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/bin/Debug/net9.0/ArgsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/bin/Debug/net9.0/ArgsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/refint/ArgsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ArgsApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ArgsApp/obj/Debug/net9.0/ref/ArgsApp.dll

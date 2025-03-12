@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/bin/Debug/net9.0/CodingFactory
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/bin/Debug/net9.0/CodingFactory.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/bin/Debug/net9.0/CodingFactory.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/bin/Debug/net9.0/CodingFactory.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/bin/Debug/net9.0/CodingFactory.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/refint/CodingFactory.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/CodingFactory.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CodingFactory/obj/Debug/net9.0/ref/CodingFactory.dll

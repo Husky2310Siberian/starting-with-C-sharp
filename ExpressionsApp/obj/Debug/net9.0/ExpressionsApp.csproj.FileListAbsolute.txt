@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/bin/Debug/net9.0/ExpressionsApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/bin/Debug/net9.0/ExpressionsApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/bin/Debug/net9.0/ExpressionsApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/bin/Debug/net9.0/ExpressionsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/bin/Debug/net9.0/ExpressionsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/refint/ExpressionsApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ExpressionsApp/obj/Debug/net9.0/ref/ExpressionsApp.dll

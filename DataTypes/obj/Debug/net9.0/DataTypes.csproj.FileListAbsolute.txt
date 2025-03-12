@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/bin/Debug/net9.0/DataTypes
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/bin/Debug/net9.0/DataTypes.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/bin/Debug/net9.0/DataTypes.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/bin/Debug/net9.0/DataTypes.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/bin/Debug/net9.0/DataTypes.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/refint/DataTypes.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/DataTypes.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/DataTypes/obj/Debug/net9.0/ref/DataTypes.dll
