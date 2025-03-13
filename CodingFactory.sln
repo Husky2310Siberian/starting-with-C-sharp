@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondsToDateApp", "Seconds
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateApp1", "CalculateApp1\CalculateApp1.csproj", "{06845A45-4A07-469B-974D-8B671ECC6E9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureConverterApp", "TemperatureConverterApp\TemperatureConverterApp.csproj", "{AFADDBF7-5599-4CF0-8F17-57203C80209B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFADDBF7-5599-4CF0-8F17-57203C80209B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFADDBF7-5599-4CF0-8F17-57203C80209B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFADDBF7-5599-4CF0-8F17-57203C80209B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFADDBF7-5599-4CF0-8F17-57203C80209B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
