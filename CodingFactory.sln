@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EurosToDollarsApp", "EurosT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondsToDateApp", "SecondsToDateApp\SecondsToDateApp.csproj", "{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateApp1", "CalculateApp1\CalculateApp1.csproj", "{06845A45-4A07-469B-974D-8B671ECC6E9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A2EA3B3-19C6-4661-92E2-E1CA2615362F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06845A45-4A07-469B-974D-8B671ECC6E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

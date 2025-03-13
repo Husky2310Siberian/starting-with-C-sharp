@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/bin/Debug/net9.0/CalculateApp1
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/bin/Debug/net9.0/CalculateApp1.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/bin/Debug/net9.0/CalculateApp1.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/bin/Debug/net9.0/CalculateApp1.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/bin/Debug/net9.0/CalculateApp1.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/refint/CalculateApp1.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/CalculateApp1.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculateApp1/obj/Debug/net9.0/ref/CalculateApp1.dll
