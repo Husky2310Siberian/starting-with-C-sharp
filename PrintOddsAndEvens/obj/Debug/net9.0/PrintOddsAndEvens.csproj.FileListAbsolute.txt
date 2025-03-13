@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/bin/Debug/net9.0/PrintOddsAndEvens
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/bin/Debug/net9.0/PrintOddsAndEvens.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/bin/Debug/net9.0/PrintOddsAndEvens.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/bin/Debug/net9.0/PrintOddsAndEvens.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/bin/Debug/net9.0/PrintOddsAndEvens.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/refint/PrintOddsAndEvens.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrintOddsAndEvens/obj/Debug/net9.0/ref/PrintOddsAndEvens.dll

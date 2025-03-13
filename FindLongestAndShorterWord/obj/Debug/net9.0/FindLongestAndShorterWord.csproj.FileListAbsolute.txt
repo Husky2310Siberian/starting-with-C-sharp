@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/bin/Debug/net9.0/FindLongestAndShorterWord
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/bin/Debug/net9.0/FindLongestAndShorterWord.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/bin/Debug/net9.0/FindLongestAndShorterWord.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/bin/Debug/net9.0/FindLongestAndShorterWord.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/bin/Debug/net9.0/FindLongestAndShorterWord.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/refint/FindLongestAndShorterWord.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/FindLongestAndShorterWord/obj/Debug/net9.0/ref/FindLongestAndShorterWord.dll

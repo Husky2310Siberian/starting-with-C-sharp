@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/bin/Debug/net9.0/CheckSum
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/bin/Debug/net9.0/CheckSum.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/bin/Debug/net9.0/CheckSum.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/bin/Debug/net9.0/CheckSum.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/bin/Debug/net9.0/CheckSum.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/refint/CheckSum.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/CheckSum.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckSum/obj/Debug/net9.0/ref/CheckSum.dll

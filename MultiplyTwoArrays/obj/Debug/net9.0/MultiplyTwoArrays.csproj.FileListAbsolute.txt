@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/bin/Debug/net9.0/MultiplyTwoArrays
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/bin/Debug/net9.0/MultiplyTwoArrays.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/bin/Debug/net9.0/MultiplyTwoArrays.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/bin/Debug/net9.0/MultiplyTwoArrays.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/bin/Debug/net9.0/MultiplyTwoArrays.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/refint/MultiplyTwoArrays.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/MultiplyTwoArrays/obj/Debug/net9.0/ref/MultiplyTwoArrays.dll

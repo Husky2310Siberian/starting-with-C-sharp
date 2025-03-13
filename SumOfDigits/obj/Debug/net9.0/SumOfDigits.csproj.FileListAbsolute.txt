@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/bin/Debug/net9.0/SumOfDigits
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/bin/Debug/net9.0/SumOfDigits.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/bin/Debug/net9.0/SumOfDigits.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/bin/Debug/net9.0/SumOfDigits.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/bin/Debug/net9.0/SumOfDigits.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/refint/SumOfDigits.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/SumOfDigits.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SumOfDigits/obj/Debug/net9.0/ref/SumOfDigits.dll

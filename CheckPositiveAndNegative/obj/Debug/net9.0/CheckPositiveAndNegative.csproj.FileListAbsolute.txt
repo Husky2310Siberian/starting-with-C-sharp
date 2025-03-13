@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/bin/Debug/net9.0/CheckPositiveAndNegative
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/bin/Debug/net9.0/CheckPositiveAndNegative.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/bin/Debug/net9.0/CheckPositiveAndNegative.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/bin/Debug/net9.0/CheckPositiveAndNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/bin/Debug/net9.0/CheckPositiveAndNegative.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/refint/CheckPositiveAndNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CheckPositiveAndNegative/obj/Debug/net9.0/ref/CheckPositiveAndNegative.dll

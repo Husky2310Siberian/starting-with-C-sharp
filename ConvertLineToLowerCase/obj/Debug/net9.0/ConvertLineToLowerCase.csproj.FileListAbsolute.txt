@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/bin/Debug/net9.0/ConvertLineToLowerCase
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/bin/Debug/net9.0/ConvertLineToLowerCase.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/bin/Debug/net9.0/ConvertLineToLowerCase.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/bin/Debug/net9.0/ConvertLineToLowerCase.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/bin/Debug/net9.0/ConvertLineToLowerCase.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/refint/ConvertLineToLowerCase.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ConvertLineToLowerCase/obj/Debug/net9.0/ref/ConvertLineToLowerCase.dll

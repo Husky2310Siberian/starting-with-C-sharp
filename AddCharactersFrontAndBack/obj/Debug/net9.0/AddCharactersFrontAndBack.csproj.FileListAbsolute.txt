@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/bin/Debug/net9.0/AddCharactersFrontAndBack
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/bin/Debug/net9.0/AddCharactersFrontAndBack.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/bin/Debug/net9.0/AddCharactersFrontAndBack.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/bin/Debug/net9.0/AddCharactersFrontAndBack.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/bin/Debug/net9.0/AddCharactersFrontAndBack.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/refint/AddCharactersFrontAndBack.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddCharactersFrontAndBack/obj/Debug/net9.0/ref/AddCharactersFrontAndBack.dll

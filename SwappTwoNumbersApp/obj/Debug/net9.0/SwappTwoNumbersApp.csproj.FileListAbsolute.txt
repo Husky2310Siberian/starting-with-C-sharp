@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/bin/Debug/net9.0/SwappTwoNumbersApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/bin/Debug/net9.0/SwappTwoNumbersApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/bin/Debug/net9.0/SwappTwoNumbersApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/bin/Debug/net9.0/SwappTwoNumbersApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/bin/Debug/net9.0/SwappTwoNumbersApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/refint/SwappTwoNumbersApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/SwappTwoNumbersApp/obj/Debug/net9.0/ref/SwappTwoNumbersApp.dll

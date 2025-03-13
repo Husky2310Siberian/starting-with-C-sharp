@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/bin/Debug/net9.0/TripleSumIntegers
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/bin/Debug/net9.0/TripleSumIntegers.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/bin/Debug/net9.0/TripleSumIntegers.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/bin/Debug/net9.0/TripleSumIntegers.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/bin/Debug/net9.0/TripleSumIntegers.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/refint/TripleSumIntegers.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/TripleSumIntegers/obj/Debug/net9.0/ref/TripleSumIntegers.dll

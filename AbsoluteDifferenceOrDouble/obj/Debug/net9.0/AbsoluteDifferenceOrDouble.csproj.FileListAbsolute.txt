@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/bin/Debug/net9.0/AbsoluteDifferenceOrDouble
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/bin/Debug/net9.0/AbsoluteDifferenceOrDouble.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/bin/Debug/net9.0/AbsoluteDifferenceOrDouble.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/bin/Debug/net9.0/AbsoluteDifferenceOrDouble.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/bin/Debug/net9.0/AbsoluteDifferenceOrDouble.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/refint/AbsoluteDifferenceOrDouble.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/ref/AbsoluteDifferenceOrDouble.dll
