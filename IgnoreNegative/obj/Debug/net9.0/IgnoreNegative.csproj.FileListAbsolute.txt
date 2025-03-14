@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/bin/Debug/net9.0/IgnoreNegative
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/bin/Debug/net9.0/IgnoreNegative.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/bin/Debug/net9.0/IgnoreNegative.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/bin/Debug/net9.0/IgnoreNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/bin/Debug/net9.0/IgnoreNegative.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/refint/IgnoreNegative.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnoreNegative/obj/Debug/net9.0/ref/IgnoreNegative.dll

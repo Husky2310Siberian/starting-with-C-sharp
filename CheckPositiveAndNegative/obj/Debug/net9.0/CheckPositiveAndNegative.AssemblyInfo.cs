@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckPositiveAndNegative")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f8af28fa5269f65dbe5490073740778a20a3dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f0e68b2ebcc6cf4aef3833454f9304f75c8a08")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckPositiveAndNegative")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckPositiveAndNegative")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

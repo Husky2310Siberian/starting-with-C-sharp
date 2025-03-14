@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/bin/Debug/net9.0/PrimesApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/bin/Debug/net9.0/PrimesApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/bin/Debug/net9.0/PrimesApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/bin/Debug/net9.0/PrimesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/bin/Debug/net9.0/PrimesApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/refint/PrimesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/PrimesApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/PrimesApp/obj/Debug/net9.0/ref/PrimesApp.dll
