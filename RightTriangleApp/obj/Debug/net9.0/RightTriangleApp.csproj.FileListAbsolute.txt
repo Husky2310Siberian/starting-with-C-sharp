@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/refint/RightTriangleApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/RightTriangleApp/obj/Debug/net9.0/ref/RightTriangleApp.dll

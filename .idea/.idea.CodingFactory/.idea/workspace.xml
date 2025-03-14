@@ -18,8 +18,11 @@
     <projectFile>FiboWithArrayApp/FiboWithArrayApp.csproj</projectFile>
     <projectFile>FindLongestAndShorterWord/FindLongestAndShorterWord.csproj</projectFile>
     <projectFile>FuctorialApp/FuctorialApp.csproj</projectFile>
+    <projectFile>IgnoreNegative/IgnoreNegative.csproj</projectFile>
     <projectFile>MultiplyTwoArrays/MultiplyTwoArrays.csproj</projectFile>
     <projectFile>OutputApp/OutputApp.csproj</projectFile>
+    <projectFile>PowerApp/PowerApp.csproj</projectFile>
+    <projectFile>PrimesApp/PrimesApp.csproj</projectFile>
     <projectFile>PrintOddsAndEvens/PrintOddsAndEvens.csproj</projectFile>
     <projectFile>ReadApp/ReadApp.csproj</projectFile>
     <projectFile>SecondsToDateApp/SecondsToDateApp.csproj</projectFile>
@@ -35,59 +38,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a93a05f-904b-493d-905e-d67566dff3bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingFactory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingFactory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimesApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrimesApp/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,8 +83,11 @@
     &quot;.NET Project.FiboWithArrayApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.FindLongestAndShorterWord.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.FuctorialApp.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.IgnoreNegative.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.MultiplyTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.OutputApp.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.PowerApp.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.PrimesApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.PrintOddsAndEvens.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.ReadApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.SecondsToDateApp.executor&quot;: &quot;Run&quot;,
@@ -155,7 +109,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.MultiplyTwoArrays">
+  <component name="RunManager" selected=".NET Project.PrimesApp">
     <configuration name="AbsoluteDifferenceOrDouble" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -462,6 +416,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="IgnoreNegative" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IgnoreNegative/IgnoreNegative.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="MultiplyTwoArrays" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -489,6 +461,42 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/OutputApp/OutputApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="PowerApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PowerApp/PowerApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="PrimesApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PrimesApp/PrimesApp.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -673,6 +681,7 @@
       <workItem from="1741761043517" duration="21950000" />
       <workItem from="1741806655510" duration="19060000" />
       <workItem from="1741945214465" duration="1128000" />
+      <workItem from="1741946882274" duration="7913000" />
     </task>
     <servers />
   </component>

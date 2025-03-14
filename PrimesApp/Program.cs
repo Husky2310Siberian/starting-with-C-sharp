@@ -10,7 +10,7 @@ class Program
        int startNum = 0;
        int endNum = 0;
        PrintPrimeRange(startNum, endNum);
-       Console.WriteLine(isPrime(5));
+       Console.WriteLine(IsPrime(5));
     }
     public static void PrintPrimeRange(int startNumber , int endNumber)
     {
@@ -38,15 +38,15 @@ class Program
         }
     }
 
-    public static bool isPrime(int number)
+    public static bool IsPrime(int number)
     {
         if (number < 2 )
         {
             return false;
         }
-        for (int i = 2; i < Math.Sqrt(number); i++)
+        for (int divider = 2; divider < Math.Sqrt(number); divider++)
         {
-            if (number % i == 0)
+            if (number % divider == 0)
             {
                 return false;
             }
