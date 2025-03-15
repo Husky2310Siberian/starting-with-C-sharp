@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/bin/Debug/net9.0/AddOnlyOdds
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/bin/Debug/net9.0/AddOnlyOdds.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/bin/Debug/net9.0/AddOnlyOdds.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/bin/Debug/net9.0/AddOnlyOdds.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/bin/Debug/net9.0/AddOnlyOdds.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/refint/AddOnlyOdds.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/AddOnlyOdds/obj/Debug/net9.0/ref/AddOnlyOdds.dll

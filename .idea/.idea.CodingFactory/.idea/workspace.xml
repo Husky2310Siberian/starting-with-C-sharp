@@ -25,6 +25,7 @@
     <projectFile>PrimesApp/PrimesApp.csproj</projectFile>
     <projectFile>PrintOddsAndEvens/PrintOddsAndEvens.csproj</projectFile>
     <projectFile>ReadApp/ReadApp.csproj</projectFile>
+    <projectFile>RightTriangleApp/RightTriangleApp.csproj</projectFile>
     <projectFile>SecondsToDateApp/SecondsToDateApp.csproj</projectFile>
     <projectFile>SumOfDigits/SumOfDigits.csproj</projectFile>
     <projectFile>SwappTwoNumbersApp/SwappTwoNumbersApp.csproj</projectFile>
@@ -38,7 +39,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a93a05f-904b-493d-905e-d67566dff3bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PrimesApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrimesApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/bin/Debug/net9.0/RightTriangleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/ref/RightTriangleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/ref/RightTriangleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/refint/RightTriangleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/refint/RightTriangleApp.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,51 +75,52 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.AbsoluteDifferenceOrDouble.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.AddCharactersFrontAndBack.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.ArgsApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.CalculateApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.CalculateApp1.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.CheckPositiveAndNegative.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.CheckSum.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.CodingFactory.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.ConvertLineToLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.EurosToDollarsApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.ExpressionsApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.FiboIterativeApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.FiboWithArrayApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.FindLongestAndShorterWord.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.FuctorialApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.IgnoreNegative.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.MultiplyTwoArrays.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.OutputApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.PowerApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.PrimesApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.PrintOddsAndEvens.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.ReadApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.SecondsToDateApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.SumOfDigits.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.SwappTwoNumbersApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.TemperatureConverterApp.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.TernaryOperator.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.TripleSumIntegers.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.TypeCastApp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.AbsoluteDifferenceOrDouble.executor": "Run",
+    ".NET Project.AddCharactersFrontAndBack.executor": "Run",
+    ".NET Project.ArgsApp.executor": "Run",
+    ".NET Project.CalculateApp.executor": "Run",
+    ".NET Project.CalculateApp1.executor": "Run",
+    ".NET Project.CheckPositiveAndNegative.executor": "Run",
+    ".NET Project.CheckSum.executor": "Run",
+    ".NET Project.CodingFactory.executor": "Run",
+    ".NET Project.ConvertLineToLowerCase.executor": "Run",
+    ".NET Project.DataTypes.executor": "Run",
+    ".NET Project.EurosToDollarsApp.executor": "Run",
+    ".NET Project.ExpressionsApp.executor": "Run",
+    ".NET Project.FiboIterativeApp.executor": "Run",
+    ".NET Project.FiboWithArrayApp.executor": "Run",
+    ".NET Project.FindLongestAndShorterWord.executor": "Run",
+    ".NET Project.FuctorialApp.executor": "Run",
+    ".NET Project.IgnoreNegative.executor": "Run",
+    ".NET Project.MultiplyTwoArrays.executor": "Run",
+    ".NET Project.OutputApp.executor": "Run",
+    ".NET Project.PowerApp.executor": "Run",
+    ".NET Project.PrimesApp.executor": "Run",
+    ".NET Project.PrintOddsAndEvens.executor": "Run",
+    ".NET Project.ReadApp.executor": "Run",
+    ".NET Project.RightTriangleApp.executor": "Run",
+    ".NET Project.SecondsToDateApp.executor": "Run",
+    ".NET Project.SumOfDigits.executor": "Run",
+    ".NET Project.SwappTwoNumbersApp.executor": "Run",
+    ".NET Project.TemperatureConverterApp.executor": "Run",
+    ".NET Project.TernaryOperator.executor": "Run",
+    ".NET Project.TripleSumIntegers.executor": "Run",
+    ".NET Project.TypeCastApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.PrimesApp">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.RightTriangleApp">
     <configuration name="AbsoluteDifferenceOrDouble" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -542,6 +553,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="RightTriangleApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RightTriangleApp/RightTriangleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="SecondsToDateApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -682,6 +711,7 @@
       <workItem from="1741806655510" duration="19060000" />
       <workItem from="1741945214465" duration="1128000" />
       <workItem from="1741946882274" duration="7913000" />
+      <workItem from="1741954813946" duration="1773000" />
     </task>
     <servers />
   </component>

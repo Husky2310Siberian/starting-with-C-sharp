@@ -12,7 +12,7 @@ class Program
 
         if (double.TryParse(Console.ReadLine(), out a)
             && double.TryParse(Console.ReadLine(), out b)
-            && double.TryParse(Console.ReadLine(), out c)) ;
+            && double.TryParse(Console.ReadLine(), out c));
         
         isRightTriangle = Math.Abs(a * a - b * b - c * c) <= EPSILON;
         Console.WriteLine("Triangle is {0} right" , (isRightTriangle) ? " " : "not");
