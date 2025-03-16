@@ -66,6 +66,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnorePositivesApp", "Ignor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductWhileApp", "ProductWhileApp\ProductWhileApp.csproj", "{17E5859B-4961-41C8-AF9E-236834B05A8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakContinueDemo", "BreakContinueDemo\BreakContinueDemo.csproj", "{0B80AFF6-556C-4488-B9D3-7414A071F1D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -204,5 +206,9 @@ Global
 		{17E5859B-4961-41C8-AF9E-236834B05A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E5859B-4961-41C8-AF9E-236834B05A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E5859B-4961-41C8-AF9E-236834B05A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B80AFF6-556C-4488-B9D3-7414A071F1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B80AFF6-556C-4488-B9D3-7414A071F1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B80AFF6-556C-4488-B9D3-7414A071F1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B80AFF6-556C-4488-B9D3-7414A071F1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

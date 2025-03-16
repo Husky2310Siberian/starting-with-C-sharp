@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/bin/Debug/net9.0/BreakContinueDemo
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/bin/Debug/net9.0/BreakContinueDemo.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/bin/Debug/net9.0/BreakContinueDemo.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/bin/Debug/net9.0/BreakContinueDemo.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/bin/Debug/net9.0/BreakContinueDemo.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/refint/BreakContinueDemo.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/BreakContinueDemo/obj/Debug/net9.0/ref/BreakContinueDemo.dll
