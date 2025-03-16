@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/bin/Debug/net9.0/IgnorePositivesApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/bin/Debug/net9.0/IgnorePositivesApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/bin/Debug/net9.0/IgnorePositivesApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/bin/Debug/net9.0/IgnorePositivesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/bin/Debug/net9.0/IgnorePositivesApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/refint/IgnorePositivesApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/IgnorePositivesApp/obj/Debug/net9.0/ref/IgnorePositivesApp.dll

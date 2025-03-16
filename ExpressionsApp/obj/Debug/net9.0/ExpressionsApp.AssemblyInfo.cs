@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fad2b3e4c3516e1bca6440e05d0d478ede234ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda401eacd1e18c11c7c930368f20f8769ef33a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
