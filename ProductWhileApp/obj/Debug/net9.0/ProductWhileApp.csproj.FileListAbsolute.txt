@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/bin/Debug/net9.0/ProductWhileApp
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/bin/Debug/net9.0/ProductWhileApp.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/bin/Debug/net9.0/ProductWhileApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/bin/Debug/net9.0/ProductWhileApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/bin/Debug/net9.0/ProductWhileApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/refint/ProductWhileApp.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/ProductWhileApp/obj/Debug/net9.0/ref/ProductWhileApp.dll
