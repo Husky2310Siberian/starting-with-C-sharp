@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/bin/Debug/net9.0/CalculatorApp2
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/bin/Debug/net9.0/CalculatorApp2.deps.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/bin/Debug/net9.0/CalculatorApp2.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/bin/Debug/net9.0/CalculatorApp2.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/bin/Debug/net9.0/CalculatorApp2.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.sourcelink.json
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/refint/CalculatorApp2.dll
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.pdb
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/CalculatorApp2.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/CodingFactory/CalculatorApp2/obj/Debug/net9.0/ref/CalculatorApp2.dll

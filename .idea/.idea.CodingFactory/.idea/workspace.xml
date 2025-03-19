@@ -43,79 +43,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a93a05f-904b-493d-905e-d67566dff3bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodingFactory/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodingFactory/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AbsoluteDifferenceOrDouble/obj/Debug/net9.0/AbsoluteDifferenceOrDouble.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AddCharactersFrontAndBack/obj/Debug/net9.0/AddCharactersFrontAndBack.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CheckSum/obj/Debug/net9.0/CheckSum.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CodingFactory/obj/Debug/net9.0/CodingFactory.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertLineToLowerCase/obj/Debug/net9.0/ConvertLineToLowerCase.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/obj/Debug/net9.0/DataTypes.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EurosToDollarsApp/obj/Debug/net9.0/EurosToDollarsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExpressionsApp/obj/Debug/net9.0/ExpressionsApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FiboIterativeApp/obj/Debug/net9.0/FiboIterativeApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FiboWithArrayApp/obj/Debug/net9.0/FiboWithArrayApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FindLongestAndShorterWord/obj/Debug/net9.0/FindLongestAndShorterWord.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SecondsToDateApp/obj/Debug/net9.0/SecondsToDateApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TripleSumIntegers/obj/Debug/net9.0/TripleSumIntegers.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TypeCastApp/obj/Debug/net9.0/TypeCastApp.AssemblyInfoInputs.cache" afterDir="false" />
-    </list>
+    <list default="true" id="6a93a05f-904b-493d-905e-d67566dff3bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +119,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.SwitchDemo">
+  <component name="RunManager" selected=".NET Project.SwappTwoNumbersApp">
     <configuration name="AbsoluteDifferenceOrDouble" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -878,6 +806,7 @@
       <workItem from="1742132341250" duration="3321000" />
       <workItem from="1742367865353" duration="8000" />
       <workItem from="1742368162915" duration="23000" />
+      <workItem from="1742375912321" duration="2424000" />
     </task>
     <servers />
   </component>
