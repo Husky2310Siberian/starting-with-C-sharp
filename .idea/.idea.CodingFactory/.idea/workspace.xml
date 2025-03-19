@@ -5,6 +5,7 @@
     <projectFile>AddCharactersFrontAndBack/AddCharactersFrontAndBack.csproj</projectFile>
     <projectFile>AddOnlyOdds/AddOnlyOdds.csproj</projectFile>
     <projectFile>ArgsApp/ArgsApp.csproj</projectFile>
+    <projectFile>BreakContinueDemo/BreakContinueDemo.csproj</projectFile>
     <projectFile>CalculateApp/CalculateApp.csproj</projectFile>
     <projectFile>CalculateApp1/CalculateApp1.csproj</projectFile>
     <projectFile>CheckPositiveAndNegative/CheckPositiveAndNegative.csproj</projectFile>
@@ -20,16 +21,19 @@
     <projectFile>FindLongestAndShorterWord/FindLongestAndShorterWord.csproj</projectFile>
     <projectFile>FuctorialApp/FuctorialApp.csproj</projectFile>
     <projectFile>IgnoreNegative/IgnoreNegative.csproj</projectFile>
+    <projectFile>IgnorePositivesApp/IgnorePositivesApp.csproj</projectFile>
     <projectFile>MultiplyTwoArrays/MultiplyTwoArrays.csproj</projectFile>
     <projectFile>OutputApp/OutputApp.csproj</projectFile>
     <projectFile>PowerApp/PowerApp.csproj</projectFile>
     <projectFile>PrimesApp/PrimesApp.csproj</projectFile>
     <projectFile>PrintOddsAndEvens/PrintOddsAndEvens.csproj</projectFile>
+    <projectFile>ProductWhileApp/ProductWhileApp.csproj</projectFile>
     <projectFile>ReadApp/ReadApp.csproj</projectFile>
     <projectFile>RightTriangleApp/RightTriangleApp.csproj</projectFile>
     <projectFile>SecondsToDateApp/SecondsToDateApp.csproj</projectFile>
     <projectFile>SumOfDigits/SumOfDigits.csproj</projectFile>
     <projectFile>SwappTwoNumbersApp/SwappTwoNumbersApp.csproj</projectFile>
+    <projectFile>SwitchDemo/SwitchDemo.csproj</projectFile>
     <projectFile>TemperatureConverterApp/TemperatureConverterApp.csproj</projectFile>
     <projectFile>TernaryOperator/TernaryOperator.csproj</projectFile>
     <projectFile>TripleSumIntegers/TripleSumIntegers.csproj</projectFile>
@@ -49,6 +53,8 @@
       <change beforePath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AddOnlyOdds/obj/Debug/net9.0/AddOnlyOdds.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ArgsApp/obj/Debug/net9.0/ArgsApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BreakContinueDemo/obj/Debug/net9.0/BreakContinueDemo.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CalculateApp1/obj/Debug/net9.0/CalculateApp1.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CheckPositiveAndNegative/obj/Debug/net9.0/CheckPositiveAndNegative.AssemblyInfo.cs" afterDir="false" />
@@ -75,6 +81,8 @@
       <change beforePath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuctorialApp/obj/Debug/net9.0/FuctorialApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IgnoreNegative/obj/Debug/net9.0/IgnoreNegative.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/IgnorePositivesApp/obj/Debug/net9.0/IgnorePositivesApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MultiplyTwoArrays/obj/Debug/net9.0/MultiplyTwoArrays.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OutputApp/obj/Debug/net9.0/OutputApp.AssemblyInfo.cs" afterDir="false" />
@@ -85,6 +93,8 @@
       <change beforePath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrimesApp/obj/Debug/net9.0/PrimesApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PrintOddsAndEvens/obj/Debug/net9.0/PrintOddsAndEvens.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ProductWhileApp/obj/Debug/net9.0/ProductWhileApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ReadApp/obj/Debug/net9.0/ReadApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RightTriangleApp/obj/Debug/net9.0/RightTriangleApp.AssemblyInfo.cs" afterDir="false" />
@@ -95,6 +105,8 @@
       <change beforePath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SumOfDigits/obj/Debug/net9.0/SumOfDigits.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwappTwoNumbersApp/obj/Debug/net9.0/SwappTwoNumbersApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchDemo/obj/Debug/net9.0/SwitchDemo.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverterApp/obj/Debug/net9.0/TemperatureConverterApp.AssemblyInfoInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TernaryOperator/obj/Debug/net9.0/TernaryOperator.AssemblyInfo.cs" afterDir="false" />
@@ -135,6 +147,7 @@
     &quot;.NET Project.AddCharactersFrontAndBack.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.AddOnlyOdds.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.ArgsApp.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.BreakContinueDemo.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.CalculateApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.CalculateApp1.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.CheckPositiveAndNegative.executor&quot;: &quot;Run&quot;,
@@ -149,16 +162,19 @@
     &quot;.NET Project.FindLongestAndShorterWord.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.FuctorialApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.IgnoreNegative.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.IgnorePositivesApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.MultiplyTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.OutputApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.PowerApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.PrimesApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.PrintOddsAndEvens.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.ProductWhileApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.ReadApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.RightTriangleApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.SecondsToDateApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.SumOfDigits.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.SwappTwoNumbersApp.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Project.SwitchDemo.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.TemperatureConverterApp.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.TernaryOperator.executor&quot;: &quot;Run&quot;,
     &quot;.NET Project.TripleSumIntegers.executor&quot;: &quot;Run&quot;,
@@ -175,7 +191,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.AddOnlyOdds">
+  <component name="RunManager" selected=".NET Project.SwitchDemo">
     <configuration name="AbsoluteDifferenceOrDouble" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -239,6 +255,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ArgsApp/ArgsApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="BreakContinueDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BreakContinueDemo/BreakContinueDemo.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -518,6 +552,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="IgnorePositivesApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IgnorePositivesApp/IgnorePositivesApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="MultiplyTwoArrays" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -599,6 +651,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/PrintOddsAndEvens/PrintOddsAndEvens.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ProductWhileApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ProductWhileApp/ProductWhileApp.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -698,6 +768,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="SwitchDemo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SwitchDemo/SwitchDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="TemperatureConverterApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -787,6 +875,9 @@
       <workItem from="1741954813946" duration="1773000" />
       <workItem from="1742054419597" duration="2931000" />
       <workItem from="1742131386437" duration="26000" />
+      <workItem from="1742132341250" duration="3321000" />
+      <workItem from="1742367865353" duration="8000" />
+      <workItem from="1742368162915" duration="23000" />
     </task>
     <servers />
   </component>

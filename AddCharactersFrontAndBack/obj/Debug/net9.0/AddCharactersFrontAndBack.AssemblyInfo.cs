@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AddCharactersFrontAndBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda401eacd1e18c11c7c930368f20f8769ef33a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53fda018420f04bcc43bba9922fc4915d050d27f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AddCharactersFrontAndBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AddCharactersFrontAndBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

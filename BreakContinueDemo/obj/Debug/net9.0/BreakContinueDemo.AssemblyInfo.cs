@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BreakContinueDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+621acd30e4097de3263e92bfdfce74034c18769f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53fda018420f04bcc43bba9922fc4915d050d27f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BreakContinueDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BreakContinueDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
